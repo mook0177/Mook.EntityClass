@@ -1,0 +1,11 @@
+﻿using System;
+using Mook.DapperCore;
+
+namespace {Namespace}
+{
+    [Table("{TableName}")]
+    public class {ClassName}
+    {
+{Properties}
+    }
+}
